@@ -1,0 +1,2 @@
+https://github.com/warrensbox/terraform-switcher/releases/download/0.12.1092/terraform-switcher_0.12.1092_darwin_amd64.tar.gz
+
